@@ -4,10 +4,12 @@ This specific example uses the DecisionTreeClassifier class to make a decision t
 
 
 Data taken from:
+
 http://www.wolf.org/wolf-info/basic-wolf-info/wolf-faqs/
 https://www.livescience.com/27436-polar-bear-facts.html
 
 Helpful links:
+
 https://www.youtube.com/watch?v=T5pRlIbr6gg
 https://github.com/llSourcell/gender_classification_challenge
 http://scikit-learn.org/stable/modules/tree.html
